@@ -1,32 +1,22 @@
 [
   {
     "name": "博客",
-    "url": "https://blog.bsgun.cn",
+    "url": "https://blog.leuxx.de",
     "icon": "fa fa-blog"
   },
   {
-    "name": "雨云",
-    "url": "https://www.rainyun.com/Lin_",
-    "icon": "fa fa-cloud "
+    "name": "永久博客",
+    "url": "https://blog.leu.pp.ua",
+    "icon": "fa fa-blog"
   },
   {
-    "name": "图床",
-    "url": "https://dev.bsgun.cn",
-    "icon": "fa fa-image"
+    "name": "哪吒流量告警",
+    "url": "https://tools.leu.pp.ua",
+    "icon": "fa fa-bell"
   },
   {
-    "name": "封面",
-    "url": "https://cover.bsgun.cn",
-    "icon": "fa fa-panorama"
-  },
-  {
-    "name": "监测",
-    "url": "https://status.bsgun.cn",
-    "icon": "fa fa-chart-line"
-  },
-  {
-    "name": "图标",
-    "url": "https://icon.bsgun.cn/",
-    "icon": "fa fa-icons"
+    "name": "VPS剩余价值",
+    "url": "http://vpsjs.leuxx.de",
+    "icon": "fa-solid fa-calculator "
   }
 ]
